@@ -1,0 +1,12 @@
+POST http://localhost:3001/users
+content-type: application/json
+
+
+{
+     "id": 4,
+    "userName": "kebba waiga",
+    "phone": "2493268",
+    "password": "Howareyoudoing1",
+    "Status": "true"
+
+}
